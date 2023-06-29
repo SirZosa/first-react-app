@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a2ac146.css",
+    "main.js": "/static/js/main.55f9b288.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/yo.jpg": "/static/media/yo.9022d68b9c5ec2f849af.jpg",
+    "static/media/Instagram Icon.svg": "/static/media/Instagram Icon.b73a3c4503f79e35b1542d04d54bb3e1.svg",
+    "static/media/GitHub Icon.svg": "/static/media/GitHub Icon.6833334c201befd3262db892b36cca68.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Twitter Icon.svg": "/static/media/Twitter Icon.ae5c8314f6a9e1d323ec2cd8a310bddb.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.8372758bbdece489bbfbd44452d742b2.svg",
+    "index.html": "/index.html",
+    "static/media/Facebook Icon.svg": "/static/media/Facebook Icon.9b2443ece76945e512ecd792e8b42134.svg",
+    "static/media/Mail.svg": "/static/media/Mail.ea7ae42f204e516c74e6bd56ec28b0a5.svg",
+    "main.4a2ac146.css.map": "/static/css/main.4a2ac146.css.map",
+    "main.55f9b288.js.map": "/static/js/main.55f9b288.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a2ac146.css",
+    "static/js/main.55f9b288.js"
+  ]
+}
